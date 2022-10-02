@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TicketBot](https://ticketbot.xyz)
 
-- 🌱 I’m currently learning **TypeScript, C# & Vue.js**
+- 🌱 I’m currently learning **TypeScript, Rust & Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://johanf.dk/projects](https://johanf.dk/projects)
 
