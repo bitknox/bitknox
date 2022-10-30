@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan</h1>
-<h3 align="center">A software student from Denmark</h3>
+<h3 align="center">A Computer Science student from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitknox&label=Profile%20views&color=0e75b6&style=flat" alt="bitknox" /> </p>
 
