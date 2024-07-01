@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johanf.dk/projects](https://johanf.dk/projects)
 
-- 📫 How to reach me **johan@johanf.dk**
+- 📫 How to reach me **johan@flensmark.dk**
 
 
 <h3 align="left">Languages and Tools:</h3>
